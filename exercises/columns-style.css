@@ -1,0 +1,26 @@
+#wrapper {
+	width: 900px;
+}
+#header {
+	background-color: #9AFFED;
+	height: 100px;
+}
+#nav {
+	height: 25px;
+	background-color: #FF9A9B;
+}
+#footer {
+	background-color: #F779FF;
+	height: 25px;
+}
+#content {
+	background-color: #F3FF7B;
+}
+#content #sidebar {
+	background-color: #6B69FF;
+	width: 30%;
+}
+#content #main {
+	background-color: #82F86A;
+	width: 70%;
+}
