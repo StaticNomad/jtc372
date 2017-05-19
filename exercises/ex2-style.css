@@ -1,0 +1,42 @@
+@charset "utf-8";
+#wrapper {
+	width: 100%;
+	max-width: 760px;
+	font-family: georgia;
+}
+#header {
+
+
+}
+#nav {
+	padding: 5px;
+	font-weight: normal;
+	background-color: #54728A;
+	color: #FFFFFF;
+}
+#nav a {
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 5px;
+}
+#footer {
+	background-color: #54728A;
+	color: #FFFFFF;
+	padding: 5px;
+	text-align: center;
+	font-weight: normal;
+}
+#body img {
+	float: right;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	height: auto;
+	width: 63.1578%;
+	padding-top: 5px;
+}
+#header img {
+	width: 97.368%;
+	height: auto;
+	padding: 1.3157%;
+
+}
