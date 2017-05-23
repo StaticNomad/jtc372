@@ -1,0 +1,88 @@
+@charset "utf-8";
+#wrapper {
+	padding: 10px;
+	max-width: 900px;
+	width: 100%;
+	border: 2px solid #D5D4D2;
+	font-family: "Droid Sans", Verdana, Geneva, "Sans Serif";
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+body {
+	background-image: url(images/page_bg.png);
+	background-repeat: repeat-x;
+}
+#header p {
+	float: right;
+	color: #8C7C6B;
+	font-weight: bold;
+	margin: 0px;
+	line-height: 100px;
+	font-size: 15px;
+}
+#header img {
+	float: left;
+	height: auto;
+	width: 40.444%;
+}
+#banner img {
+	border: 1px solid #007AC2;
+	padding: 12px;
+	height: auto;
+	width: 96.666%;
+}
+#header {
+	padding-bottom: 10px;
+	overflow: auto;
+}
+#content #sidebar ul li {
+	list-style-type: none;
+	line-height: 30px;
+}
+#content #sidebar {
+	float: left;
+	width: 30%;
+	background-color: #D1E7FD;
+	height: auto;
+	margin: 0px;
+	font-size: 15px;
+	padding: 0px;
+}
+#content #main {
+	float: right;
+	width: 70%;
+	vertical-align: 10%;
+	margin: 0px;
+	line-height: 22px;
+}
+#content {
+	overflow: auto;
+	padding-top: 5px;
+}
+#content #main p {
+	padding-left: 10px;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	line-height: 125%;
+}
+#content #sidebar p {
+	padding-left: 10px;
+	margin-top: 10px;
+}
+#wrapper #content #sidebar ul {
+	vertical-align: middle;
+}
+#wrapper #content #main p strong {
+	font-size: 18px;
+}
+#content #sidebar p strong {
+	font-size: 16px;
+	margin: 0px;
+}
+#header a {
+	text-decoration: none;
+	color: #867664;
+}
